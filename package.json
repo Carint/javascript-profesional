@@ -1,0 +1,16 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del curso profesional de javascript en Platzi",
+  "author": "Carlos Interiano <carinthnd@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "platzi"
+  ],
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
