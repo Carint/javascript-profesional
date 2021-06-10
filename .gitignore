@@ -1,2 +1,4 @@
 node_modules
-lib
+
+# IGNORAR LOS ARCHIVOS MP4 DEL EJERCICO
+*.mp4

@@ -13,14 +13,14 @@
   
   header {
     text-align: center;
-    padding: 3rem 0;
+    padding: 1.5rem 0;
     background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
     color: white;
   }
   
   header > h1 {
-    font-weight: normal;
-    font-style: italic;
+    font-weight: 600;
+    /* font-style: italic; */
   }
   
   main {
@@ -35,4 +35,15 @@
   
   .movie {
     width: 100%;
+  }
+
+  .container > button {
+    margin: 20px 5px;
+    /* background-color: #3ec715; */
+    /* color: #fff; */
+    font-weight: 500;
+    border-radius: 10px;
+    height: 40px;
+    width: 110px;
+    font-size: 14px;
   }
