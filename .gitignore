@@ -1,4 +1,9 @@
 node_modules
+<<<<<<< HEAD
 
 # IGNORAR LOS ARCHIVOS MP4 DEL EJERCICO
+=======
+lib
+
+>>>>>>> 8aa1b19652826cc083275b3d7edc7cf6988ad0fe
 *.mp4
